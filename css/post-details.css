@@ -193,7 +193,7 @@
 
 .post-header-text {
   transition: color 1000ms ease 0s;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 18px;
   text-overflow: ellipsis;
   white-space: nowrap;
