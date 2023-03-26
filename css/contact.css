@@ -1,0 +1,120 @@
+/* Contact */
+.contact {
+  animation-name: fade;
+  animation-duration: 2000ms;
+}
+
+.contact-inner {
+  display: flex;
+}
+
+.contact-wrapper {
+  padding-bottom: 125px;
+  opacity: 1;
+  margin: 0px auto;
+  max-width: 1600px;
+}
+
+.contact-content {
+  margin-left: 27.7778%;
+  width: 44.4444%;
+  animation-name: fade-up;
+  animation-duration: 1000ms, 750ms;
+}
+
+.contact-text {
+  font-size: 24px;
+  letter-spacing: 0px;
+  line-height: 34px;
+  margin-bottom: 20px;
+}
+
+.contact-link {
+  color: inherit;
+  transition: all 0.25s linear 0s;
+  display: inline;
+  text-decoration: none;
+  padding-bottom: 5px;
+  background: linear-gradient(to right, rgb(34, 34, 34) 0%, rgb(34, 34, 34) 98%) right 85% / 100%
+    1px no-repeat;
+}
+
+.contact-link:hover {
+  background-size: 0px 1px;
+  background-position: right 85%;
+}
+
+.contact hr {
+  margin: 40px 0px;
+  background: rgba(0, 0, 0, 0.5);
+  border: none;
+  height: 1px;
+}
+
+.contact-logo {
+  padding-top: 120px;
+}
+
+.contact-logo-wrapper {
+  padding-bottom: 125px;
+  opacity: 1;
+  margin: 0px auto;
+  max-width: 1600px;
+}
+
+.contact-logo-inner {
+  padding-bottom: 80px;
+}
+
+.contact-logo-spacing {
+  width: 33.3333%;
+  margin-left: 33.3333%;
+}
+
+.contact-logo-image {
+  transform: scale(1);
+  width: 100%;
+  position: relative;
+  margin-bottom: 0px;
+  padding-bottom: 5.5%;
+  animation-name: fade-up;
+  animation-duration: 1000ms, 750ms;
+}
+
+.contact-logo-image img {
+  width: 100%;
+  z-index: 1;
+  position: absolute;
+  opacity: 1;
+  user-select: none;
+}
+
+@media (max-width: 767.98px) {
+  .contact-text {
+    margin-bottom: 20px;
+    font-size: 20px;
+    line-height: 32px;
+  }
+
+  .contact-content {
+    width: 88.8889%;
+    margin-left: 5.55556%;
+  }
+
+  .contact-wrapper {
+    padding-bottom: 90px;
+  }
+
+  .contact hr {
+    margin: 25px 0px;
+  }
+
+  .contact-logo-spacing {
+    width: 77.7778%;
+    margin-left: 11.1111%;
+  }
+
+  .contact-logo-wrapper {
+    padding-bottom: 90px;
+  }
+}

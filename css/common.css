@@ -1,0 +1,42 @@
+.flex {
+  display: flex;
+}
+
+.block {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+
+.justify-between {
+  display: flex;
+  flex-direction: row;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+}
+
+.flex-col-center {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+}
+
+.mt-0 {
+  margin-top: 0;
+}
+
+.post-details-mask-image {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: var(--home-content-hover, #2837a9);
+}
+
+@media (max-width: 767.98px) {
+  .justify-between {
+    flex-direction: column;
+  }
+}

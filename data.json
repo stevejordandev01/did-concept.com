@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "main": "./images/first_page_1.jpg",
+    "detail": [
+      "./images/first_page_2.jpg",
+      "./images/first_page_3.jpg",
+      "./images/first_page_4.jpg",
+      "./images/first_page_5.jpg",
+      "./images/first_page_6.jpg",
+      "./images/first_page_7.jpg",
+      "./images/first_page_8.jpg",
+      "./images/first_page_9.jpg",
+      "./images/first_page_10.jpg",
+      "./images/first_page_11.jpg",
+      "./images/first_page_12.jpg",
+      "./images/first_page_13.jpg",
+      "./images/first_page_14.jpg"
+    ],
+    "title": "Preserving the Heritage of British Craft",
+    "category": "Article",
+    "location": "London",
+    "year": "2022",
+    "color": "#2837a9"
+  },
+  {
+    "id": 2,
+    "main": "./images/second_page_1.jpg",
+    "detail": [
+      "./images/second_page_2.jpg",
+      "./images/second_page_3.jpg",
+      "./images/second_page_4.jpg",
+      "./images/second_page_5.jpg",
+      "./images/second_page_6.jpg",
+      "./images/second_page_7.jpg",
+      "./images/second_page_8.jpg",
+      "./images/second_page_9.jpg",
+      "./images/second_page_10.jpg",
+      "./images/second_page_11.jpg",
+      "./images/second_page_12.jpg",
+      "./images/second_page_13.jpg",
+      "./images/second_page_14.jpg"
+    ],
+    "title": "The Bryanston Show Apartment",
+    "category": "Residence",
+    "location": "Marble Arch, London",
+    "year": "2022",
+    "color": "#2837a9"
+  },
+  {
+    "id": 3,
+    "main": "./images/third_page_1.jpg",
+    "detail": [
+      "./images/third_page_2.jpg",
+      "./images/third_page_3.jpg",
+      "./images/third_page_4.jpg",
+      "./images/third_page_5.jpg",
+      "./images/third_page_6.jpg",
+      "./images/third_page_7.jpg",
+      "./images/third_page_8.jpg",
+      "./images/third_page_9.jpg",
+      "./images/third_page_10.jpg",
+      "./images/third_page_11.jpg",
+      "./images/third_page_12.jpg",
+      "./images/third_page_13.jpg",
+      "./images/third_page_14.jpg",
+      "./images/third_page_15.jpg",
+      "./images/third_page_16.jpg",
+      "./images/third_page_17.jpg",
+      "./images/third_page_18.jpg",
+      "./images/third_page_19.jpg",
+      "./images/third_page_20.jpg",
+      "./images/third_page_21.jpg",
+      "./images/third_page_22.jpg",
+      "./images/third_page_23.jpg"
+    ],
+    "title": "The Bryanston Show Apartment",
+    "category": "Residence",
+    "location": "Marble Arch, London",
+    "year": "2022",
+    "color": "#2837a9"
+  }
+]
